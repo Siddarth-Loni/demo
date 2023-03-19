@@ -1,0 +1,136 @@
+body {
+    margin: 0px;
+    text-align: center;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 0px;
+    width: 30%;
+    margin: 0 auto 0 auto;
+    font-family: cursive;
+    font-weight: 600;
+    font-size: xx-large;
+    color: #66BFBF;
+    line-height: 2;
+    /* position: absolute; */
+
+
+    /* height:0; */
+
+    /* You can centerliase a element by adding margin trbl */
+    /* trbl means top right bottom left.If u want more details go on mdn docs */
+}
+h3{
+    color: #11999E;
+}
+h2 {
+    color: #66BFBF;
+    font-weight: normal;
+    /* height: 20px; */
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    padding: 20px;
+
+}
+
+/* div.h2{
+    height: 20px;
+} */
+
+
+div {
+    background-color: #ECF9FF;
+    /* border: 10px; */
+    /* width: 200px; */
+    /* height: 200px; */
+    padding: 50px;
+    /* position: absolute; */
+
+
+    /* position: relative; */
+}
+
+hr{
+    border-color:#40514E;
+    border-style: dotted;
+    border-radius: 200px;
+    border-width: 2px;
+    /* border-style: none; */
+   
+    width: 10%;
+    
+}
+
+
+div.secondcontainer {
+    /* width: 200px; */
+    /* border: 20px; */
+    border: 30px;
+    border-color: black;
+    /* height: 200px; */
+    background-color: #F48484;
+}
+
+.thirdcontainer {
+    /* height: 200px; */
+    /* width:200px; */
+    /* border: 10px; */
+    border-color: black;
+    background-color: #C3ACD0;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+}
+
+.upper-cloud {
+    position: absolute;
+    right: 280px;
+    top: 10px;
+}
+
+#mypic {
+    /* position: absolute; */
+    left: 20px;
+    top: 0px;
+    /* bottom: 50px; */
+    /* right: 500px; */
+}
+
+.cs-eng {
+    width: 100%;
+
+}
+
+.chillies {
+    float: right;
+    width: 20%;
+    /* padding:  */
+    margin: 20px;
+}
+
+.img-1 {
+    width: 20%;
+    float: left;
+    padding: 20px;
+
+}
+
+.intro {
+    width: 30%;
+    /* text-align: center; */
+    margin: auto;
+    color: #40514E;
+}
+
+.my-skill {
+    color: #66BFBF;
+    padding: 5px;
+}
